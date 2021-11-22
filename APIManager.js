@@ -3,7 +3,7 @@
 class APIManager {
     constructor() {
 
-        this.propNam = ['user', 'quote', 'pokimon', 't']
+        this.propNam = ['user', 'quote', 'pokimon', 'text']
         this.apisUrl =
             ['https://randomuser.me/api/?results=7',
                 'https://api.kanye.rest/',
